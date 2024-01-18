@@ -9,8 +9,18 @@ Bubble sort is sorting algorithm that works by iterating through a list, compare
 -Define the purpose of Bubble sort.
 
 -Implement Bubble sort in a problem.
--identify the pros and cons of Bubble sort.
+
+-Identify the pros and cons of Bubble sort.
+
 -Learn the syntax for Bubble sort.
+
+#### **Implement Bubble sort in a function**
+
+Now we can create a function to sort an array of numbers using Bubble sort.
+
+`function sortWithBubbleSort(arr) {
+    
+}`
 
 
 
