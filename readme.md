@@ -7,7 +7,8 @@ Bubble sort is sorting algorithm that works by iterating through a list, compare
 ### **Learning Objective**
 
 -Define the purpose of Bubble sort.
--implement Bubble sort in a problem.
+
+-Implement Bubble sort in a problem.
 -identify the pros and cons of Bubble sort.
 -Learn the syntax for Bubble sort.
 
