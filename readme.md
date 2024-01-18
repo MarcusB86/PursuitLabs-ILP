@@ -1,18 +1,13 @@
-#          🫧 *Bubble Sort* 🫧
+#           *Independent Learning Project - 🫧Bubble Sort* 🫧
 
 ## **Introduction**
 
 Bubble sort is sorting algorithm that works by iterating through a list, compares adjacent elements and swaps them if they are in the wrong order. The iteration is repeated until the list is sorted.
 
-## **Learning Objective**
+## **Algorithm Description**
 
--Define the purpose of Bubble sort.
-
--Implement Bubble sort in a problem.
-
--Identify the pros and cons of Bubble sort.
-
--Learn the syntax for Bubble sort.
+1.Initialization: The entire list is considered unsorted initially.
+`const array = [6, 5, 3, 1, 8, 7, 2, 4]`
 
 ## **Implement Bubble sort in a function**
 
