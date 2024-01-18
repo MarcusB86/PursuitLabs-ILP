@@ -7,6 +7,7 @@ Bubble sort is sorting algorithm that works by iterating through a list, compare
 ## **Algorithm Description**
 
 1.Initialization: The entire list is considered unsorted initially.
+
 `const array = [6, 5, 3, 1, 8, 7, 2, 4]`
 
 ## **Implement Bubble sort in a function**
