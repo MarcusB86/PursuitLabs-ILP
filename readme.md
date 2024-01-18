@@ -1,5 +1,9 @@
 #          🫧 *Bubble Sort* 🫧
 
+**Introduction**
+
+Bubble sort is a method used in javascript fo sorting elements in an array.
+
 
 
 
