@@ -2,7 +2,9 @@
 
 ## **Introduction**
 
-Bubble sort is a method used in javascript fo sorting elements in an array.
+Bubble sort is sorting algorithm that works by iterating through a list, compares adjacent elements and swaps them if they are in the wrong order. The iteration is repeated until the list is sorted.
+
+### **Learning Objective**
 
 
 
