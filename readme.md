@@ -4,7 +4,7 @@
 
 Bubble sort is sorting algorithm that works by iterating through a list, compares adjacent elements and swaps them if they are in the wrong order. The iteration is repeated until the list is sorted.
 
-### **Learning Objective**
+## **Learning Objective**
 
 -Define the purpose of Bubble sort.
 
@@ -14,12 +14,12 @@ Bubble sort is sorting algorithm that works by iterating through a list, compare
 
 -Learn the syntax for Bubble sort.
 
-#### **Implement Bubble sort in a function**
+## **Implement Bubble sort in a function**
 
 Now we can create a function to sort an array of numbers using Bubble sort.
 
 `function sortWithBubbleSort(arr) {
-    
+
 }`
 
 
