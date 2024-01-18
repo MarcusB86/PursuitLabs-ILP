@@ -1,1 +1,1 @@
-# Bubble Sort 🫧
+#          🫧 *Bubble Sort* 🫧
