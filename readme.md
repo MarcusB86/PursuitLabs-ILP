@@ -21,12 +21,11 @@ for (let i = 0; i < arr.length; i++) {
         }
     }
 }
-        
+```        
          
 3.Swap: Swap the larger element with the smaller element.
 
-```
-[arr[j], arr[j + 1]] = [arr[j + 1], arr[j]];
+`[arr[j], arr[j + 1]] = [arr[j + 1], arr[j]]`
 
 4. Repeat: Repeat steps 2,3 until entire list has been sorted.
 
