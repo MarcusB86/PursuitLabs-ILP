@@ -24,13 +24,6 @@ for (let i = 0; i < arr.length; i++) {
 }
 '''  
 
-## **Implement Bubble sort in a function**
-
-Now we can create a function to sort an array of numbers using Bubble sort.
-
-`function sortWithBubbleSort(arr) {
-
-}`
 
 
 
