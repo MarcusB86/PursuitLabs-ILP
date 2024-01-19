@@ -8,7 +8,17 @@ Bubble sort is sorting algorithm that works by iterating through a list, compare
 
 1.Initialization: The entire list is considered unsorted initially.
 
-`const array = [6, 5, 3, 1, 8, 7, 2, 4]`
+`const arr = [6, 5, 3, 1, 8, 7, 2, 4]`
+
+2.Iterate over the array, element by element.For each element in the array, compare the element adjacent.
+
+`for (let i = 0; i < arr.length; i++) {
+    //Outer for loop to keep track of each iteration we're on.
+    for (let j = 0; j < arr.length; i++) {
+        //Inner for loop starts comparing the elements adjacent to each other.
+        [arr[j], arr[j + 1]] = [arr[j + 1], arr[j]];
+    }
+}`  
 
 ## **Implement Bubble sort in a function**
 
