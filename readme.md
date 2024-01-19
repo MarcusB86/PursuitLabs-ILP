@@ -13,19 +13,16 @@ Bubble sort is sorting algorithm that works by iterating through a list, compare
 2.Iterate over the array, element by element.For each element in the array, compare the element adjacent.
 
 ```
-
 for (let i = 0; i < arr.length; i++) {
     //Outer for loop to keep track of each iteration we're on.
     for (let j = 0; j < arr.length; i++) {
         if (arr[j] > arr[j + 1]) {
           //Inner for loop starts comparing the elements adjacent to each other.
-        
         }
-         
-
     }
 }
-
+        
+         
 3.Swap: Swap the larger element with the smaller element.
 
 ```
