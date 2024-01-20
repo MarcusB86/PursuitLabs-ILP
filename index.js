@@ -1,5 +1,5 @@
 function sortWithBubbleSort(arr) {
-     // Ascending order
+     // unsorted order of elements
     for (let i = 0; i < arr.length; i++) {
         //Outer for loop to keep track of each iteration we're on.
         for (let j = 0; j < arr.length; j++) {
