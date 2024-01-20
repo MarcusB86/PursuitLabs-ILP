@@ -45,7 +45,7 @@ The space complexity of Bubble Sort is O(1) because it only requires a constant 
 
 ## **Use Cases**
 
-Bubble sort is simple and easy to understand and its mostly used as an introduction to the concepts of sorting algorithims and to help grasp the fundementals of algorthimic design. Its also might used for very small data sets and already partially sorted data.
+Bubble sort is simple and easy to understand and its mostly used as an introduction to the concepts of sorting algorithims and to help grasp the fundementals of algorthimic design. It also might be used for very small data sets and already partially sorted data.
 
 ## **Edge Cases and Concerns**
 
