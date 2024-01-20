@@ -2,8 +2,7 @@
 
 ## **Introduction**
 
-Bubble sort is sorting algorithm that works by iterating through a list, compares adjacent elements and swaps them if they are in the wrong order. The iteration is repeated until the list is sorted.
-
+Bubble sort is sorting algorithm that works by iterating through a list, compares adjacent elements and the positions are swapped if the first element is greater than the second. the largest value "bubbles" to the top.
 ## **Algorithm Description**
 
 1.Initialization: The entire list is considered unsorted initially.
@@ -50,9 +49,11 @@ Bubble sort is simple and easy to understand and its mostly used as an introduct
 
 ## **Edge Cases and Concerns**
 
-While there are edge cases where O(n^2) algorithms might be acceptable, concerns primarily revolve around scalability, efficiency,more efficient sorting algorithms like Merge Sort, Quick Sort, or even built-in sorting functions in programming languages are preferred for their better average and worst-case performance. Bubble Sort is rarely used in production code where sorting large datasets quickly is essential.
+While there are edge cases where O(n^2) algorithms might be acceptable, concerns primarily revolve around scalability, efficiency. More efficient sorting algorithms like Merge Sort, Quick Sort, or even built-in sorting functions in programming languages are preferred for their better average and worst-case performance. Bubble Sort is rarely used in production code where sorting large datasets quickly is essential.
 
 ## **Citations**
+
+Bubble sort in javascript https://flexiple.com/javascript/bubble-sort-javascript
 
 Gif to illustrate Bubble sort(https://commons.wikimedia.org/wiki/File:Bubble-sort-example-300px.gif#/media/File:Bubble-sort-example-300px.gif)
 
