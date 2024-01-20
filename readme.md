@@ -34,23 +34,26 @@ for (let i = 0; i < arr.length; i++) {
 
 ## **The Big O Evaluation**
 
-**Time complexity**
+## **Time complexity**
 
 Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
 
 The time complexity of Bubble Sort is O(n^2) in the worst and average cases, where "n" is the number of elements in the list. This is because, in the worst case, the algorithm needs to make n passes through the entire list, and for each pass, it may need to swap each pair of elements.
 
-**Space complexity**
+## **Space complexity**
 
 The space complexity of Bubble Sort is O(1) because it only requires a constant amount of extra space for storing temporary variables.
 
-**Use Cases**
+## **Use Cases**
 
 Bubble sort is simple and easy to understand and its mostly used as an introduction to the concepts of sorting algorithims and to help grasp the fundementals of algorthimic design. Its also might used for very small data sets and already partially sorted data.
 
-**Edge Cases and Concerns**
+## **Edge Cases and Concerns**
 
 While there are edge cases where O(n^2) algorithms might be acceptable, concerns primarily revolve around scalability, efficiency,more efficient sorting algorithms like Merge Sort, Quick Sort, or even built-in sorting functions in programming languages are preferred for their better average and worst-case performance. Bubble Sort is rarely used in production code where sorting large datasets quickly is essential.
+
+## **Citations**
+[Gif to illustrate Bubble sort] https://commons.wikimedia.org/wiki/File:Bubble-sort-example-300px.gif#/media/File:Bubble-sort-example-300px.gif
 
 
 
