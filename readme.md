@@ -53,7 +53,7 @@ Bubble sort is simple and easy to understand and its mostly used as an introduct
 While there are edge cases where O(n^2) algorithms might be acceptable, concerns primarily revolve around scalability, efficiency,more efficient sorting algorithms like Merge Sort, Quick Sort, or even built-in sorting functions in programming languages are preferred for their better average and worst-case performance. Bubble Sort is rarely used in production code where sorting large datasets quickly is essential.
 
 ## **Citations**
-[Gif to illustrate Bubble sort] https://commons.wikimedia.org/wiki/File:Bubble-sort-example-300px.gif#/media/File:Bubble-sort-example-300px.gif
+Gif to illustrate Bubble sort(https://commons.wikimedia.org/wiki/File:Bubble-sort-example-300px.gif#/media/File:Bubble-sort-example-300px.gif)
 
 
 
