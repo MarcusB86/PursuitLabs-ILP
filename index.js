@@ -11,8 +11,8 @@ function sortWithBubbleSort(arr) {
             }
         }
     }
-    return arr;
+    return arr; // Return sorted array
 }
 console.log(sortWithBubbleSort([6, 5, 3, 1, 8, 7, 2, 4]));// unsorted array of numbers
 console.log(sortWithBubbleSort([-4,-5,-3,-8,-55,-99,-3.-1,-54,-23,-12,-98,-49]));// unsorted array with negative numbers
-console.log(sortWithBubbleSort(["Hello", "Bubble", "Sort", "The", "Then","Alter","Why","Double"]));// array of strings
+console.log(sortWithBubbleSort([9,4,6,8,-9,-4,-2,-9,-16,9,-5]));// unsorted array of positive and negative numbers
